@@ -762,13 +762,13 @@
             },
             "zwave": {
                 "manufacturerId": 96,
-                "productTypeId": 257,
-                "productId": 1,
+                "productTypeId": 1,
+                "productId": 5,
                 "learnmode": {
                     "image": "/drivers/SP103/assets/learnmode.svg",
                     "instruction": {
-                        "en": "Click the tamper switch behind the battery cover",
-                        "nl": "Druk op de tamper knop achter de batterij klep"
+                        "en": "Click the tamper switch behind the battery cover 3 times",
+                        "nl": "Druk op de tamper knop achter de batterij klep 3 keer"
                     }
                 },
                 "associationGroups": [ 1 ]
